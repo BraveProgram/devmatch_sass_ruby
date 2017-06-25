@@ -1,0 +1,3 @@
+ Plan < ActiveRecord::Base
+
+end
