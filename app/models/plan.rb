@@ -1,3 +1,3 @@
- Plan < ActiveRecord::Base
-
+Plan < ActiveRecord::Base
+  has_many :users
 end
